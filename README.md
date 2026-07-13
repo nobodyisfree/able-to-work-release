@@ -25,6 +25,9 @@ The install is simple. Download what OS version you need and run it.
 Any small amount of financial contribution would be great to help me out with the development but if you can't no worries. Download and crack on.
 
 
+Upload failed conversions here: https://forms.gle/KqAYLHXavZm2TQkj8
+
+
 Cheers
 
 
