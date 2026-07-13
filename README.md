@@ -28,6 +28,12 @@ Any small amount of financial contribution would be great to help me out with th
 Upload failed conversions here: https://forms.gle/KqAYLHXavZm2TQkj8
 
 
+https://buymeacoffee.com/modmusic
+
+
+https://www.patreon.com/MODMusic
+
+
 Cheers
 
 
