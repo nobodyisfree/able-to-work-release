@@ -16,7 +16,7 @@ There are three versions available for download. Windows, Mac and Linux. I've te
 A basic disclaimer. You use the software at your own risk and any damaged caused isn't my fault. Always backup your original Ableton file before converting it.
 
 
-The support I'm offering is going to be very limited at the minute as I only made the originally to solve a personal problem and thought it might be of help to others. If there is a genuine interest in pushing this coverter further I'll dedicate mote time. I might setup an upload option where you can send your Ableton 12 sessions files which didn't convert correctly. Then I'll take some time to debug those files and update the converter over time.
+The support I'm offering is going to be very limited at the minute as I’ve only made the program to solve a personal problem and thought it might be of help to others. If there is a genuine interest in pushing this converter further I'll dedicate more time to it. I’ll setup an upload option where you can send your Ableton 12 sessions files which didn't convert correctly. Then I'll take some time to debug those files and update the converter.
 
 
 By its very nature you aren’t going to get a fully working Ableton 12 file working in 11 or 10 as it removes, changes or disables what isn’t present in 11 or 10. The converters aim is just to open the file in previous versions of Ableton.
