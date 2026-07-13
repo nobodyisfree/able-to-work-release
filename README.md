@@ -1,5 +1,5 @@
-# Able to Work v0.1.0-alpha
-Ableton 12 converter to 11 or 10
+# Ableton 12 converter to 11 or 10 - Able to Work v0.1.0-alpha
+
 
 So out of desperation I created an Ableton 12 to 11 and 10 Converter (Able to Work). After finding out there wasn't any backwards compatibility in Ableton and version 12 requires a CPU upgrade on my part as my gear is getting old. I basically couldn't open Ableton 12 session files.
 
