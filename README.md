@@ -4,7 +4,7 @@
 So out of desperation I created an Ableton 12 to 11 and 10 Converter (Able to Work). After finding out there wasn't any backwards compatibility in Ableton and version 12 requires a CPU upgrade on my part as my gear is getting old. I basically couldn't open Ableton 12 session files.
 
 
-With a very limited understanding of coding and zero coding experience I used Claude AI and ChatGPT to build Able to Work.
+With a very limited understanding of debugging code and zero coding experience I used Claude AI and ChatGPT to build Able to Work.
 
 
 After a lot of debugging and a few different versions I managed to get a basic version working. I've only tested it on a handful of Ableton 12 files but all seemed to open in Ableton 11. I've also included an Ableton 10 option but this has only been tested in Ableton 11 and not 10.
